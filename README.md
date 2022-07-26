@@ -1,13 +1,13 @@
 # Olympics-Visualisation:
 Exploratory Data Analytics and Visualisation
 
-#Why?
+# Why?
 Across the world, many of us are sitting eager as we begin to watch the trials for the much anticipated 2025 Summer Olympics. Although this event is always seen as a historic, we find this Olympics to be especially momentous as it brings new hope for collective unity and optimistic spirits proceeding the great challenges and uncertainty of the past year and a half. No matter where you end up watching from or the flag you’re waving, together we will witness again true displays of hard work and passion from athletes around the globe, reminding us all the values of good character and teamwork. At the same time, it’s a competition and the bedrock of competition is Data Analysis and its subsequent Visualisation. We, here in this project are using this rich history of Olympics and the data that comes accompanied with it to create a Dashboard so that we can share the joy of Data Analysis to everyone through intuitive visualisations so that even if someone is a layman in terms of this field can get across the analysis we want to showcase. We must select a Dataset first and do Data Abstraction to find out the data types and the nature of the dataset as all the future tasks is dependent on this step, then based on the dataset we need to declare the Data abstractions thinking upon what the Users might want and need because the Visualisation is for no other than them. Also, this is a demonstration of how easy it is to make a Utilitarian dashboard by simply using R for Analysis and Flexdashboard library of R to visualise the analysis.
 
-#Problem Statement:
+# Problem Statement:
 As Tokyo Olympic Games just drew to an end,we review here 120 years history of Modern Olympic Game. Modern Olympic Games are leading international sport events featuring summer and winter sports competitions. The creation was inspired by the ancient Olympic Games, held in Olympia, Greece from the 8th century BC to 4th century AD. The first modern Games was held in Athens in 1896, and ever since Olympics has been happening almost without a stop, except during Wars. But, there hasn’t been much investigations into visualising this data, but due to the huge landscape of data, which are memories that Olympics have created throughout the history; it will be a disservice to the great athletes and their history if we don’t reignite the history; in this project as a form of a Dashboard where we can investigate the history again. Thus, this gives us a great foundation for a Demonstration project through which we want to develop and demonstrate the various visualisation that can be used and how different inferences can be drawn from that.
 
-#Hardware Requirements:
+# Hardware Requirements:
 Hardware Requirements:
 Any modern System will do.
 Software Requirements:
@@ -23,7 +23,7 @@ library(gifski)
 library(png)
 Any modern browser to see the html file consisting of the dashboard.
 
-#DATA ABSTRACTION:
+# DATA ABSTRACTION:
 Attributes:
 ID - Unique number 
 Name - Athlete's name - NOT USED
@@ -56,7 +56,7 @@ The Winter and Summer Games were held in the same year up until 1992. After that
 The dataset contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events)
 Link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-#Task abstractions Identified:
+# Task abstractions Identified:
 The Variation Female Participants In Comparison To Male Participants-Line graph
 Relationship Between Height Vs Weight Vs Age of Participants -Scatterplot
 Top 10 Nations To Win Gold, Silver and Bronze Medals-Donut Chart
