@@ -76,26 +76,29 @@ The Inferences that we can draw up from this Dashboard:
 Page 1:
 Sport and Events per year - Line Chart - We can see an ever increasing number of Sports and Events, Winter Sports has increased tremendously, showing the potential of Winter Sports getting the limelight along with Summer games. Events have increased a lot too. Summer number of sports have plateaued at ~32 sports.
 Tree Map containing Sports and number of events in that Sport - Tree Map - Division of sports and Events per sports - Athletics and Swimming having the most, More equal division in case of Winter sports. Athletics and Swimming are very popular, with 47 and 34 events in Rio Summer Olympics. In winter - we can see Cross Country Skiing, Speed Skating and Biathlon taking the lime light.
-
+![](picture1.png)
+![](picture2.png)
 Page 2:
 Number of Athletes Female and Male and Comparison in Winter and Summer - Stacked bar Graph - increasing Women Participation, Significant from 1960, across both Winter and Summer games. 2012 London games was remarkable as the number of female participants was almost ~90% of male. A very welcome scene indeed.
-
+![](picture3.png)
 Page 3:
 Number of Athletes vs Medals won for Gold, Silver and Bronze - SPLOT - Year wise number of athletes has been ever increasing and there’s a +ve correlation in Summer Games, but Winter Games is more up for grabs as different countries have different niches where they are good at and dominate the medals. This is apparent across all the win types.
 
 Page 4:
 Gold Medal Leaders in Summer and Winter History - Horizontal Bar Chart - Summer Games is dominated by USA historically and RUS during it’s peak as USSR where they invested unprecedented amounts to get the W against USA, until recently by CHN in 2008 due to home field advantage, whereas, in Winter, its dominated by RUS and GER and back in the day NOR. CAN got huge in the 2010 Winter Olympics, a first for them.Winters is still ruled by RUS and GER.
 Total Medals won History -  Stacked Horizontal Bar Chart - CHN used the Beijing Olympics to gather a lot of Golds. 
-
+![](picture4.png)
 Page 5:
 Animation representing Total Medals won History from 1896 to 2016 - Animated Stacked Horizontal Bar Chart - There are traditional countries like USA and Germany, and China until very recently. This gives us a feel of the dynamics of Medal winning countries as we can follow and remember the short term past history in memory and compare with the present year without much cognitive overload.
-
+![](picture5.png)
 Page 6:
 Novel Ideas - Density Plot of Age Distribution - Women has a younger starting age and also falls off quicker, but also have a bigger plateau, men has a smaller time to peak.
 Boxplot about Age - Fencing has the highest average age (29) and also the largest range of ages. Swimming has the lowest average age (21) as well as the smallest range of ages. This can be attributed to the support and popularity of Swimming and Gymnastic during School and Colleges where most athletes comes from. The youngest of the Top Sports are Gymnastics (23) and Swimming (21). Youngest ever was a 10 year old kid and the oldest participant was a 97 year old.
-
+![](picture6.png)
 Page 7:
 WordCloud - Based on total individual medals won -  This is just for Demonstration - Shows how dominant USA has been! France, Great Britain, Germany are also honorable mentions. We can’t see China here because their rise has been very recent along with their rise as an Economic Superpower, ever bigger than USA and RUS.
-
+![](picture7.png)
+![](picture8.png)
 Page 8:
 Interactive World Map with How many Gold medals won per country - This is just for Demonstration - Confirms all the previous datapoints - China isn’t as bright as their rise has been very recent, Cumulative USA, Russia and EU has bagged a lot of medals. India is in a sorry state with just 29 medals. Australia although a small country of population has won a ton of medals too.
+![](picture9.png)
